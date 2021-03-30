@@ -1,3 +1,3 @@
 # NATOURS APPLICATIONS
 
-bilt using node.js, express.js, mongodb, mongoose
+built using node.js, express.js, mongodb, mongoose
